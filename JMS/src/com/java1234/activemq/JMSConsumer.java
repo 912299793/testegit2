@@ -10,7 +10,7 @@ import javax.jms.TextMessage;
 
 import org.apache.activemq.ActiveMQConnection;
 import org.apache.activemq.ActiveMQConnectionFactory;
-//1111122
+//11111223
 /**
  * ��Ϣ������
  * @author Administrator
